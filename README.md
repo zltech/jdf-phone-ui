@@ -5,9 +5,9 @@
 
 仔细阅读开发规范：[开发指南 ]( https://cn.vuejs.org/v2/style-guide/)
 
-开发注意点：[传送门 ]( https://github.com/zltech/jdf-phone-ui/blob/master/src/README.md)
+开发注意点：[传送门 ]( https://github.com/jdfdcc/jdf-phone-ui/blob/master/src/README.md)
 
-组件配置参数说明：[传送门 ]( https://github.com/zltech/jdf-phone-ui/blob/master/src/common/README.md)
+组件配置参数说明：[传送门 ]( https://github.com/jdfdcc/jdf-phone-ui/blob/master/src/common/README.md)
 
 iosApp下载地址：[App示例]( https://www.pgyer.com/foCF)
 
